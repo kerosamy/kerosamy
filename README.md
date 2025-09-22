@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kero Samy</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt & ACPC Finalist</h3>
 
 ---
 
 ### 🌍 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://codeforces.com/profile/kero_samy_20" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
