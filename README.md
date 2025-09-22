@@ -1,28 +1,48 @@
-# Hi there 👋, I'm Kero Samy
-
-🎓 2nd-year Computer & Systems Engineering student at Alexandria University.  
-💻 Passionate about **Competitive Programming, Algorithms, and Full-Stack Development**.  
-⚡ Currently learning **Spring Boot, React, and WebSockets**.  
-🚀 Future goals: Build impactful projects & contribute to open-source.
+<h1 align="center">Hi 👋, I'm Kero Samy</h1>
+<h3 align="center">A passionate developer from Egypt</h3>
 
 ---
 
-### 🔥 Skills
-- **Languages:** C++, Java, Python, JavaScript, SQL  
-- **Frameworks & Tools:** React, Spring Boot, Flask, Qt6  
-- **Other Interests:** Algorithms, Data Structures, Problem Solving
+### 🌍 Connect with me:
+<p align="left">
+  <a href="https://codeforces.com/profile/kero_samy_20" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kerolos-samy-0348ba339/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kerosamy42004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![Kero's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerosamy&show_icons=true&theme=radical)
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-### 🌍 Connect with me
-- 📫 Email: kerosamy42004@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/kerosamy](https://linkedin.com/in/kerosamy)  
-- 🏆 Codeforces: [codeforces.com/profile/kerosamy](https://codeforces.com/profile/kerosamy)
-
----
-⭐️ From [kerosamy](https://github.com/kerosamy)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerosamy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerosamy&theme=radical" alt="GitHub Streak"/>
+</p>
