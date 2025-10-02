@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kero Samy</h1>
+<h1 align="center">Hi 👋, I'm Kerolos Samy</h1>
 <h3 align="center">A passionate Software Engineer from Egypt & ACPC Finalist</h3>
 
 ---
